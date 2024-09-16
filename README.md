@@ -20,6 +20,21 @@ I'm passionate about cybersecurity, especially in the area of **web penetration 
 
 ---
 
+## 📦 My Projects
+
+### 🔗 [0dSSRF: Collaborative SSRF & Open Redirect Scanner](https://github.com/KariiemGamal/0dSSRF)
+**0dSSRF** is a powerful tool designed to automate the detection of **Server-Side Request Forgery (SSRF)** and **Open Redirect** vulnerabilities in web applications. Built to simplify the process for security professionals, the tool allows for multiple injection methods and comprehensive scanning. 
+
+**Key Features:**
+- **Multiple Injection Methods**: Automate payload injections for Host Headers, Common Headers, Absolute URLs, and URL Parameters.
+- **Resumable Scanning**: Continue interrupted scans with ease.
+- **Structured Output & Logs**: Save and organize results in clean directories.
+- **Flexible Rate-Limiting Control**: Adjust request rates for rate-limited environments.
+  
+Check out the detailed write-up on **[Medium](https://medium.com/@kariiem)** for more insights into how the tool works and how to leverage it in real-world pentests.
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 Ranked **Top 10 Bug Hunter in Egypt** on HackerOne (Jan-Mar 2024)
@@ -51,4 +66,4 @@ When I'm not hunting bugs, I love exploring **cybersecurity trends** and mentori
 
 ---
 
-Thanks for stopping by! 😄
+Thanks for visiting my profile! 😄
