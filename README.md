@@ -45,24 +45,32 @@ Check out the detailed write-up on **[Medium](https://medium.com/@kariiem)** for
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedgamal/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kariiem-gamal/)  
 - 📝 [Medium](https://medium.com/@kariiem)  
-- 🐦 [Twitter](https://twitter.com/kariiemgamal)  
+- 🐦 [Twitter](https://x.com/0d_Kariem)  
 - 🎯 [HackerOne](https://hackerone.com/0d_kariiem)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Kariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KariiemGamal&show_icons=true&theme=radical)
+![Kariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KariiemGamal&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KariiemGamal&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KariiemGamal&layout=compact&theme=radical)
+---
+
+<div align="center">
+
+Founder of **0dYSs3y.?** team, Join our Discord Server.
+
+<a href="https://discord.gg/nHmzPVE78X"><img src="https://github.com/user-attachments/assets/b6bc53ad-1c2e-4134-af49-29f12da47fef" width="300" alt="Join Discord"></a>
+
+</div>
 
 ---
 
 ## 💬 Fun Fact
 
-When I'm not hunting bugs, I love exploring **cybersecurity trends** and mentoring young people in the field. I'm always open to connecting with like-minded individuals, so feel free to reach out!
+When I'm not hunting bugs, I love creating videos and experimenting with AI tools to enhance my workflow. Whether it's automating tasks or editing videos, I'm always finding ways to integrate tech into my creative process! 😄
 
 ---
 
