@@ -57,15 +57,6 @@ Check out the detailed write-up on **[Medium](https://medium.com/@kariiem)** for
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  
-![Kariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KariiemGamal&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KariiemGamal&layout=compact&theme=radical)
-</div>
-
----
-
 <div align="center">
 
 Founder of **0dYSs3y.?** team, Join our Discord Server.
