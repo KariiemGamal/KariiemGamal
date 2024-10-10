@@ -67,10 +67,4 @@ Founder of **0dYSs3y.?** team, Join our Discord Server.
 
 ---
 
-## 💬 Fun Fact
-
-When I'm not hunting bugs, I love creating videos and experimenting with AI tools to enhance my workflow. Whether it's automating tasks or editing videos, I'm always finding ways to integrate tech into my creative process! 😄
-
----
-
 Thanks for visiting my profile! 😄
